@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 This is VINAY KUMAR PUPPALA (WIN I)
 - 🔭 I’m currently working on SPGI as Machine Learning Engineer
 - 🌱 I’m currently learning MLops, NLP
 - 👯 I’m looking to collaborate on MLOps, Python
