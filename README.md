@@ -5,4 +5,4 @@
 - 💬 Ask me about Python, MLOps, Automation, ML Engineering
 - 📫 How to reach me: ... @HelloVinaykumar (Twitter) @wiin-ai at LinkedIn
 - 😄 Pronouns: ...WIN I - (He/Him)
-- ⚡ Fun fact: ... I love Movies
+- ⚡ Fun fact: ... just Code and Chill 
